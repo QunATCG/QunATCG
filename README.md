@@ -3,7 +3,7 @@
 
 [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/l.qun.1/bibliography/public/)
 
-[researchgate](https://www.researchgate.net/profile/Qun-Li-43)
+[ResearchGate](https://www.researchgate.net/profile/Qun-Li-43)
 <!--
 **QunATCG/QunATCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
