@@ -1,6 +1,8 @@
 ### Hi there 👋
 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=fk98shwAAAAJ&view_op=list_works&sortby=pubdate)
 
+[PubMed](https://www.ncbi.nlm.nih.gov/myncbi/l.qun.1/bibliography/public/)
+
 
 <!--
 **QunATCG/QunATCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
