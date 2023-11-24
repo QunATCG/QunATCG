@@ -1,6 +1,7 @@
-### Research Interests 🏃
-The overall interest is to understand genetic and epigenetic mechanisms 
+## Learning is a lifelong process
 
+### Research Interests 🏃
+The overall interest is to understand genetic and epigenetic mechanisms <br/>
 related to disease processes using multiple omics methods.
 
 ### Hi there 👋
