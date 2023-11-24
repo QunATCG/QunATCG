@@ -17,6 +17,7 @@ qun.li@ki.se
 
 20111510021@fudan.edu.cn
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 <!--
 **QunATCG/QunATCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
