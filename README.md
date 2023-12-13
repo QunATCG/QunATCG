@@ -13,6 +13,7 @@ Before joining Karolinska Institutet, he completed his doctoral training at [**H
 [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/l.qun.1/bibliography/public/) | 
 [ResearchGate](https://www.researchgate.net/profile/Qun-Li-43) | 
 [ORCID](https://orcid.org/0000-0002-4734-712X)
+[WOS](https://www.webofscience.com/wos/author/record/ABO-5028-2022)
 
 ### Contact 🙈
 liqun95@163.com | 
